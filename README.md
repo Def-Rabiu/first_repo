@@ -1,2 +1,5 @@
 # first_repo
-Just something random
+
+hello world
+
+It feels nice to be here
